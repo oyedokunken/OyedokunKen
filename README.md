@@ -1,5 +1,5 @@
 <!-- ╔══════════════════════════════════════════════════════╗
-     ║  My Personal GitHub Profile README — Oyedokun Kehinde            ║
+     ║  GitHub Profile README — Oyedokun Kehinde            ║
      ║  Software Engineer · Tech Instructor · rexta.io      ║
      ╚══════════════════════════════════════════════════════╝ -->
 
