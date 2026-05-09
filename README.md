@@ -71,8 +71,8 @@ I have shipped live and functional projects across fintech, energy, healthcare, 
 
 ## Right now
 
-- Building production systems at Athena Networks, Rexta, Ren Power, Ascentor BI, and PRO ALLY simultaneously
-- Open to interesting contracts and full-time remote roles
+- Building systems and products that are usable and scalable
+- Open to interesting contracts and full-time remote SWE roles
 - Learning more about distributed systems and cloud architecture
 
 ---
