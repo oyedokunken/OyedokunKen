@@ -2,7 +2,7 @@
 
 Software engineer based in Nigeria, building full-stack products and backend systems that actually work in production. I enjoy the full stack but live closer to the backend, mostly because that is where the interesting problems are.
 
-I have shipped 13+ projects across fintech, energy, healthcare, mining, e-commerce, and EdTech. I work across time zones with international teams while keeping things moving fast locally.
+I have shipped live and functional projects across fintech, energy, healthcare, mining, e-commerce, and EdTech. I work across time zones with international teams while keeping things moving fast locally.
 
 ---
 
