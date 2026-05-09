@@ -2,7 +2,7 @@
 
 Software engineer based in Nigeria, building full-stack products and backend systems that actually work in production. I enjoy the full stack but live closer to the backend, mostly because that is where the interesting problems are.
 
-I have shipped 13+ projects across fintech, energy, healthcare, mining, e-commerce, and EdTech. I work across time zones with teams in Australia, the US, and the UK while keeping things moving fast locally.
+I have shipped 13+ projects across fintech, energy, healthcare, mining, e-commerce, and EdTech. I work across time zones with international teams while keeping things moving fast locally.
 
 ---
 
@@ -71,7 +71,7 @@ I have shipped 13+ projects across fintech, energy, healthcare, mining, e-commer
 
 ## Right now
 
-- Building production systems at Athena Networks (Australia), Rexta, Ren Power, Ascentor BI, and PRO ALLY simultaneously
+- Building production systems at Athena Networks, Rexta, Ren Power, Ascentor BI, and PRO ALLY simultaneously
 - Open to interesting contracts and full-time remote roles
 - Learning more about distributed systems and cloud architecture
 
