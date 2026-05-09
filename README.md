@@ -1,4 +1,4 @@
-# Hey, I'm Kehinde
+# Hey, My name is Kenny :)
 
 Software engineer based in Nigeria, building full-stack products and backend systems that actually work in production. I enjoy the full stack but live closer to the backend, mostly because that is where the interesting problems are.
 
