@@ -74,6 +74,7 @@ I have shipped live and functional projects across fintech, energy, healthcare, 
 - Building systems and products that are usable and scalable
 - Open to interesting contracts and full-time remote SWE roles
 - Learning more about distributed systems and cloud architecture
+- Sharpening my technical and engineering prowess
 
 ---
 
