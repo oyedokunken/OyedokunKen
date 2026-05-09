@@ -1,163 +1,88 @@
-<!-- ╔══════════════════════════════════════════════════════╗
-     ║  GitHub Profile README — Oyedokun Kehinde            ║
-     ║  Software Engineer · Tech Instructor · rexta.io      ║
-     ╚══════════════════════════════════════════════════════╝ -->
+# Hey, I'm Kehinde
 
-<div align="center">
+Software engineer based in Nigeria, building full-stack products and backend systems that actually work in production. I enjoy the full stack but live closer to the backend, mostly because that is where the interesting problems are.
 
-# 👋 Oyedokun Kehinde
-
-### 2/3 Software Engineer · Tech Instructor · Building rexta.io
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=79C0FF&center=true&vCenter=true&width=520&lines=I+don%27t+write+code.+I+build+systems.;Architecture+first.+Code+second.;Turning+complexity+into+structured+solutions.;Currently+building+%40+rexta.io)
-
-![Location](https://img.shields.io/badge/📍-Akure%2C_Nigeria-30363d?style=flat-square)
-![Experience](https://img.shields.io/badge/4%2B_years-building_software-1f6feb?style=flat-square)
-![Status](https://img.shields.io/badge/🟢-open_to_work-238636?style=flat-square)
-![Rexta](https://img.shields.io/badge/🏗️-rexta.io-8957e5?style=flat-square)
-
-[![Email](https://img.shields.io/badge/✉-oyedokunken%40gmail.com-30363d?style=flat-square)](mailto:oyedokunken@gmail.com)
-[![Portfolio](https://img.shields.io/badge/🌐-portfolio-1f6feb?style=flat-square)](https://oyedokun.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/💼-linkedin-0a66c2?style=flat-square)](https://linkedin.com/in/oyedokunken)
-[![GitHub](https://img.shields.io/badge/🐙-github-30363d?style=flat-square)](https://github.com/oyedokunken)
-
-</div>
+I have shipped 13+ projects across fintech, energy, healthcare, mining, e-commerce, and EdTech. I work across time zones with teams in Australia, the US, and the UK while keeping things moving fast locally.
 
 ---
 
-## About
+## What I work with
 
-I don't just write code. I build systems that solve real problems at scale.
+**Languages and Frameworks**
 
-I think in architecture, not just features. Every product I build is driven by structure, clarity, and purpose — from the database layer to the interface. I care about how everything connects, performs, and evolves over time.
-
-I'm a problem solver at heart with a strong bias for execution. I explore deeply, learn aggressively, and build consistently. I bring ideas to life with code — but more importantly, I turn complexity into usable, structured systems.
-
----
-
-## Engineering Mindset
-
-I approach software like an engineer, not a code writer.
-
-→ Break down problems into systems before writing a single line of code  
-→ Prioritize clean architecture, maintainability, and scalability  
-→ Build with long-term thinking — not temporary fixes  
-→ Function and form matter equally. Logic and experience are both non-negotiable
-
----
-
-## What I Build
-
-I've worked across multiple domains — real-world applications that go beyond tutorials.
-
-**Enterprise Platforms**  
-Procurement summits, agency platforms, and systems designed for high-level stakeholders and business visibility
-
-**Health & Productivity Systems**  
-Applications improving workflows and mental efficiency using structured methodologies like Critical Path
-
-**Blockchain & Verification Systems**  
-Secure, tamper-proof systems for academic credential verification using distributed technologies
-
-**Marketplaces & Industry Platforms**  
-Platforms connecting energy, construction, and mining sectors to real users and real transactions
-
-**AI-Assisted & Data-Driven Tools**  
-Systems combining automation, intelligent estimation, and human validation
-
-**Full-Stack Web Applications**  
-Backend-heavy systems to clean, interactive frontends built to modern UI/UX standards
-
----
-
-## Tech Stack
-
-#### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000?style=flat-square)
-
-#### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase)
 
-#### Design & CMS
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+**Databases and Storage**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+**Infrastructure and Tooling**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+
+**Other**
+
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-
-#### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 
 ---
 
-## GitHub Activity
+## Things I have built
 
-<div align="center">
-
-![Oyedokun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oyedokunken&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oyedokunken&layout=compact&theme=github_dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=oyedokunken&theme=github-dark-blue&hide_border=true)
-
-![Pull Shark](https://img.shields.io/badge/🦈_Achievement-Pull_Shark-8957e5?style=flat-square)
-![Contributions](https://img.shields.io/badge/📈_Contributions-503%2B-238636?style=flat-square)
-
-</div>
-
----
-
-## Philosophy
-
-> I don't chase trends. I focus on **fundamentals that scale**.
->
-> Clean, readable code is non-negotiable.  
-> Systems must be understandable and extendable.  
-> Every decision should have a **reason** behind it.  
-> I iterate fast, but I don't build carelessly.
->
-> Real growth happens in the doing — in late-night debugging sessions,  
-> in helping someone understand a loop,  
-> in the unending quest for mastery and excellence.  
-> That's where **skill meets soul**.
+| Project | Description | Stack |
+|---|---|---|
+| [Glore](https://gloreenergy.com) | Critical mineral trading platform with real-time WebSocket pricing | React, Express, PostgreSQL, Socket.io |
+| [Ren Power](https://renpowerltd.com) | Solar energy marketplace with AI chatbot and quote workflows | Next.js, Prisma, Supabase |
+| [RIOS](https://github.com/oyedokunken/RIOS-app) | Multi-tenant ESG reporting SaaS with GRI and TCFD frameworks | Next.js, Express, Prisma |
+| [GramOne](https://gramone.vercel.app) | Critical minerals company platform across three verticals | Next.js 16, Express 5, Supabase |
+| [TitanBid](https://titan-bid-frontend.vercel.app) | AI construction estimating platform with blueprint uploads | Next.js, Supabase, Stripe |
+| [Traqify](https://traqify.vercel.app) | Multi-tenant store management with real-time analytics | Next.js, Express, Recharts |
+| [FUTA HMS](https://futahms.vercel.app) | University health management with PPSA queue algorithm | Next.js, Node.js, WebSockets |
+| [EduPilot](https://edupilotly.vercel.app) | Student workflow management using Critical Path Method | Next.js, TypeScript, Node.js |
+| [Dubai Avenue Scents](https://dubaiavenuescent.com) | Luxury fragrance storefront with WhatsApp-first ordering | Next.js 14, Supabase, Nodemailer |
+| [DPA Summit](https://digitalprocurement.africa) | Event platform for C-suite executives with secure registration | Laravel, TailwindCSS, MySQL |
+| [Credence](https://credencely.vercel.app) | Blockchain academic credential verification using Hyperledger | Hyperledger Fabric, Next.js, Node.js |
+| [Ascentor LDP](https://ascentorbi.com) | Leadership development platform with social auth and mentorship circles | React 19, TypeScript, Firebase |
+| [Cooper Gaming Services](https://cgs-web.vercel.app) | Business website for a Queensland gaming company with local SEO | React 18, Vite, Bootstrap, Express |
+| [Rexta](https://rexta.vercel.app) | Full digital agency site with 10 service pages | Next.js 16, Supabase, Nodemailer |
+| [Glory Fashion](https://glorybyjes.com) | Luxury inclusive fashion brand with WooCommerce storefront | WordPress, WooCommerce |
+| [Noble Land Africa](https://noblelandafrica.com) | Real estate platform for Nigerian property listings | WordPress, PHP |
 
 ---
 
-## Currently
+## Right now
 
-▸ Building **Rexta** — a software & design agency at [rexta.io](https://rexta.io)  
-▸ Deepening expertise in **system design & software architecture**  
-▸ Instructing and mentoring the next generation of engineers  
-▸ Creating products at the intersection of technology, business, and real-world impact
-
----
-
-<div align="center">
-
-## I am a builder.
-
-I think in systems. I execute with clarity. I design with intent.  
-If the goal is to build something meaningful — I'm already interested.
-
-[![Email](https://img.shields.io/badge/✉_Email-oyedokunken%40gmail.com-238636?style=for-the-badge)](mailto:oyedokunken@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-oyedokunken-0a66c2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/oyedokunken)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-oyedokun.netlify.app-1f6feb?style=for-the-badge)](https://oyedokun.netlify.app)
+- Building production systems at Athena Networks (Australia), Rexta, Ren Power, Ascentor BI, and PRO ALLY simultaneously
+- Open to interesting contracts and full-time remote roles
+- Learning more about distributed systems and cloud architecture
 
 ---
 
-*Oyedokun Kehinde · @oyedokunken · Akure, Nigeria · 2026*
+## Find me
 
-![Pull Shark](https://img.shields.io/badge/🦈-Pull_Shark-8957e5?style=flat-square)
-![Contributions](https://img.shields.io/badge/📈-503%2B_Contributions-238636?style=flat-square)
-![Rexta](https://img.shields.io/badge/🏗️-Building_rexta.io-purple?style=flat-square)
+[![Portfolio](https://img.shields.io/badge/Portfolio-oyedokun.dev-000000?style=flat-square&logo=vercel&logoColor=white)](https://oyedokun.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-oyedokunken-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/oyedokunken)
+[![Email](https://img.shields.io/badge/Email-oyedokunken@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:oyedokunken@gmail.com)
 
-</div>
+---
+
+*Building things that scale. Based in Nigeria, working globally.*
