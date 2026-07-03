@@ -51,7 +51,7 @@ I have shipped production-grade systems across fintech, energy, healthcare, mini
 | Project | Description | Stack |
 |---|---|---|
 | [Ren Power](https://renpowerltd.com) | Solar energy marketplace with AI chatbot and quote workflows | Next.js, Prisma, Supabase |
-| [RIOS](https://github.com/oyedokunken/RIOS-app) | Multi-tenant ESG reporting SaaS with GRI and TCFD frameworks | Next.js, Express, Prisma |
+| [RIOS](https://rios-web.vercel.app/) | Multi-tenant ESG reporting SaaS with GRI and TCFD frameworks | Next.js, Express, Prisma |
 | [Credence](https://credencely.vercel.app) | Blockchain academic credential verification using Hyperledger | Hyperledger Fabric, Next.js, Node.js |
 | [Glore](https://gloreenergy.com) | Critical mineral trading platform with real-time WebSocket pricing | React, Express, PostgreSQL, Socket.io |
 | [GramOne](https://gramone.vercel.app) | Critical minerals company platform across three verticals | Next.js 16, Express 5, Supabase |
